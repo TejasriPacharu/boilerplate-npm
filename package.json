@@ -2,6 +2,11 @@
   "name": "fcc-learn-npm-package-json",
   "author": "teja-sri-pacharu",
   "description": "a project that is created for my backend certification in free code camp",
+  "keywords": [
+    "learning",
+    "building",
+    "freecodecamp"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
